@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banener.png" alt="Jessica Díaz Bernal - Data Analyst Jr." width="100%">
+</p>
+
 # 👋 Hola, soy Jessica Díaz Bernal
 
 ### 📊 Data Analyst Jr. | Licenciada en Administración
